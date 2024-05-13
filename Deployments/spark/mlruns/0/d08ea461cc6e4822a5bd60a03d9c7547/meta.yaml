@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/coalyonysh/Documents/hse_ml/Deployments/spark/mlruns/0/d08ea461cc6e4822a5bd60a03d9c7547/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d08ea461cc6e4822a5bd60a03d9c7547
+run_name: amusing-zebra-126
+run_uuid: d08ea461cc6e4822a5bd60a03d9c7547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715542210122
+status: 1
+tags: []
+user_id: coal

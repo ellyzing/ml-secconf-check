@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1715618534302,"sparkVersion":"3.1.2","uid":"StringIndexer_482af194e749","paramMap":{"inputCol":"image","outputCol":"image_index","handleInvalid":"skip"},"defaultParamMap":{"handleInvalid":"error","outputCol":"StringIndexer_482af194e749__output","stringOrderType":"frequencyDesc"}}

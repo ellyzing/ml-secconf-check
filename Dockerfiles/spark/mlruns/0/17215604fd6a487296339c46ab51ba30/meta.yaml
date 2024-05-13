@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/coalyonysh/Documents/hse_ml/spark/mlruns/0/17215604fd6a487296339c46ab51ba30/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 17215604fd6a487296339c46ab51ba30
+run_name: selective-bird-824
+run_uuid: 17215604fd6a487296339c46ab51ba30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715032047611
+status: 1
+tags: []
+user_id: coal
